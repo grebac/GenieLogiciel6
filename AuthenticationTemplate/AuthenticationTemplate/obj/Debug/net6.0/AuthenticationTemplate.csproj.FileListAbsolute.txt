@@ -1,0 +1,14 @@
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\bin\Debug\net6.0\AuthenticationTemplate.deps.json
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\bin\Debug\net6.0\AuthenticationTemplate.dll
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\bin\Debug\net6.0\AuthenticationTemplate.pdb
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\AuthenticationTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\AuthenticationTemplate.AssemblyInfoInputs.cache
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\AuthenticationTemplate.AssemblyInfo.cs
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\AuthenticationTemplate.csproj.CoreCompileInputs.cache
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\AuthenticationTemplate.dll
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\refint\AuthenticationTemplate.dll
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\AuthenticationTemplate.pdb
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\ref\AuthenticationTemplate.dll
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\bin\Debug\net6.0\AuthenticationTemplate.runtimeconfig.json
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\AuthenticationTemplate.csproj.AssemblyReference.cache
+C:\Users\grebac\source\repos\AuthenticationTemplate\AuthenticationTemplate\obj\Debug\net6.0\AuthenticationTemplate.genruntimeconfig.cache
